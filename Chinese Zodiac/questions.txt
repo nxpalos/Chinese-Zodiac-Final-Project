@@ -1,0 +1,10 @@
+1. The Chinese zodiac associates a sign with each month : A) True, B) False
+2. Chinese zodiac signs represent different types of personalities : A) True, B) False
+3. The Chinese zodiac signs each have an equivalent constellations, like those of the occidental zodiac : A) True, B) False
+4. Which sign is not part of the Chinese zodiac? : A) Fox, B) Rat, C) Pig, D) Tiger
+5. The Chinese zodiac traditionally begins with which sign? : A) Fox, B) Rat, C) Pig, D) Tiger 
+6. The Chinese zodiac traditionally ends with which sign? : A) Fox, B) Rat, C) Pig, D) Tiger 
+7. The Year 2000 was the year of the... : A) Dog, B) Rooster, C) Dragon, D) Snake, E) None of the above
+8. Which is the best zodiac sign? : A) Dog, B) Rooster, C) Dragon, D) Snake, E) None of the above
+9. Which is the unluckiest zodiac year? : A) Rat, B) Pig, C) Snake, D) Fox, E) None of the above
+10. Which element is associated with the dragon? : A) Water, B) Wood, C) Fire, D) Earth, E) Metal
